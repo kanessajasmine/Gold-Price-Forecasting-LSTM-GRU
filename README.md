@@ -30,6 +30,11 @@ The model utilizes historical gold prices and economic indicators from various p
 8. Model Evaluation
 9. Forecast Visualization
 
+## Models
+- LSTM
+- GRU
+- XGBoost
+- 
 ## Technologies
 - Python
 - Pandas
